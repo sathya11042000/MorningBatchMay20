@@ -8,6 +8,9 @@ public class GitProject {
 
 		int a = 34;
 		System.out.println(a);
+		
+		boolean c=true;
+		System.out.println(c);
 
 	}
 
